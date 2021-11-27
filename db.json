@@ -1,7 +1,11 @@
-{
-  "id": 0,
-  "description": "JONLITTLENFTS",
-  "external_url": "https://jonlittlenfts.com",
-  "image": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/D9pXQfzq8MnhLGP8eo9BhuEmx2vSCaQg9ivkwNVHeCFc/littlenfts4.png",
-  "name": "LITTLENFTS"
+ {
+    "tokens": [
+        {
+            "id": 0,
+            "description": "JONLITTLENFTS",
+            "external_url": "https://jonlittlenfts.com",
+            "image": "https://github.com/JonLittleIT/littlenftsMeta/blob/main/littlenfts.svg",
+            "name": "LITTLENFTS"
+        }
+    ]
 }
